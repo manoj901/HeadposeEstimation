@@ -1,0 +1,3228 @@
+cuda True
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 18, 19, 20, 21, 22, 23, 24] [12, 16, 17]
+
+==============================
+
+ -8-  Epoch [1/1020]
+Training samples: 13637 Train Loss: 0.25082
+Test samples: 2041 Test Loss: 0.23564
+0 improved 84.48076157520823
+ -8-  Epoch [2/1020]
+Training samples: 13637 Train Loss: 0.22491
+Test samples: 2041 Test Loss: 0.19763
+1 improved 77.01310332997764
+ -8-  Epoch [3/1020]
+Training samples: 13637 Train Loss: 0.17661
+Test samples: 2041 Test Loss: 0.12574
+2 improved 60.184356076410154
+ -8-  Epoch [4/1020]
+Training samples: 13637 Train Loss: 0.08810
+Test samples: 2041 Test Loss: 0.03122
+3 improved 24.666171786482575
+ -8-  Epoch [5/1020]
+Training samples: 13637 Train Loss: 0.02839
+Test samples: 2041 Test Loss: 0.01643
+4 improved 17.469207300151577
+ -8-  Epoch [6/1020]
+Training samples: 13637 Train Loss: 0.02087
+Test samples: 2041 Test Loss: 0.01563
+ -8-  Epoch [7/1020]
+Training samples: 13637 Train Loss: 0.01884
+Test samples: 2041 Test Loss: 0.01418
+6 improved 16.950792745303314
+ -8-  Epoch [8/1020]
+Training samples: 13637 Train Loss: 0.01693
+Test samples: 2041 Test Loss: 0.01268
+7 improved 16.00845538769675
+ -8-  Epoch [9/1020]
+Training samples: 13637 Train Loss: 0.01516
+Test samples: 2041 Test Loss: 0.01162
+8 improved 15.368689275850917
+ -8-  Epoch [10/1020]
+Training samples: 13637 Train Loss: 0.01351
+Test samples: 2041 Test Loss: 0.01043
+9 improved 14.469380806264546
+ -8-  Epoch [11/1020]
+Training samples: 13637 Train Loss: 0.01191
+Test samples: 2041 Test Loss: 0.00944
+10 improved 13.667248992695638
+ -8-  Epoch [12/1020]
+Training samples: 13637 Train Loss: 0.01055
+Test samples: 2041 Test Loss: 0.00848
+11 improved 12.7755789637624
+ -8-  Epoch [13/1020]
+Training samples: 13637 Train Loss: 0.00940
+Test samples: 2041 Test Loss: 0.00787
+12 improved 12.190139149988708
+ -8-  Epoch [14/1020]
+Training samples: 13637 Train Loss: 0.00862
+Test samples: 2041 Test Loss: 0.00713
+13 improved 11.442646286406978
+ -8-  Epoch [15/1020]
+Training samples: 13637 Train Loss: 0.00799
+Test samples: 2041 Test Loss: 0.00712
+14 improved 11.373643739617146
+ -8-  Epoch [16/1020]
+Training samples: 13637 Train Loss: 0.00746
+Test samples: 2041 Test Loss: 0.00679
+15 improved 10.941365235930036
+ -8-  Epoch [17/1020]
+Training samples: 13637 Train Loss: 0.00705
+Test samples: 2041 Test Loss: 0.00640
+16 improved 10.634047916156296
+ -8-  Epoch [18/1020]
+Training samples: 13637 Train Loss: 0.00671
+Test samples: 2041 Test Loss: 0.00618
+17 improved 10.404975663091202
+ -8-  Epoch [19/1020]
+Training samples: 13637 Train Loss: 0.00640
+Test samples: 2041 Test Loss: 0.00598
+18 improved 10.1503523023382
+ -8-  Epoch [20/1020]
+Training samples: 13637 Train Loss: 0.00618
+Test samples: 2041 Test Loss: 0.00579
+19 improved 10.053201438982308
+ -8-  Epoch [21/1020]
+Training samples: 13637 Train Loss: 0.00595
+Test samples: 2041 Test Loss: 0.00558
+20 improved 9.808079197615866
+ -8-  Epoch [22/1020]
+Training samples: 13637 Train Loss: 0.00578
+Test samples: 2041 Test Loss: 0.00545
+21 improved 9.674128261867077
+ -8-  Epoch [23/1020]
+Training samples: 13637 Train Loss: 0.00560
+Test samples: 2041 Test Loss: 0.00535
+22 improved 9.551629716423667
+ -8-  Epoch [24/1020]
+Training samples: 13637 Train Loss: 0.00543
+Test samples: 2041 Test Loss: 0.00530
+23 improved 9.468126983866862
+ -8-  Epoch [25/1020]
+Training samples: 13637 Train Loss: 0.00530
+Test samples: 2041 Test Loss: 0.00518
+24 improved 9.366315498707166
+ -8-  Epoch [26/1020]
+Training samples: 13637 Train Loss: 0.00514
+Test samples: 2041 Test Loss: 0.00505
+25 improved 9.219888540414663
+ -8-  Epoch [27/1020]
+Training samples: 13637 Train Loss: 0.00503
+Test samples: 2041 Test Loss: 0.00490
+26 improved 9.074044047705629
+ -8-  Epoch [28/1020]
+Training samples: 13637 Train Loss: 0.00489
+Test samples: 2041 Test Loss: 0.00483
+27 improved 8.919506755195256
+ -8-  Epoch [29/1020]
+Training samples: 13637 Train Loss: 0.00478
+Test samples: 2041 Test Loss: 0.00469
+28 improved 8.833567849682103
+ -8-  Epoch [30/1020]
+Training samples: 13637 Train Loss: 0.00465
+Test samples: 2041 Test Loss: 0.00449
+29 improved 8.633455148460467
+ -8-  Epoch [31/1020]
+Training samples: 13637 Train Loss: 0.00456
+Test samples: 2041 Test Loss: 0.00450
+30 improved 8.61366455137934
+ -8-  Epoch [32/1020]
+Training samples: 13637 Train Loss: 0.00449
+Test samples: 2041 Test Loss: 0.00431
+31 improved 8.489935808121018
+ -8-  Epoch [33/1020]
+Training samples: 13637 Train Loss: 0.00433
+Test samples: 2041 Test Loss: 0.00430
+32 improved 8.459430490855432
+ -8-  Epoch [34/1020]
+Training samples: 13637 Train Loss: 0.00425
+Test samples: 2041 Test Loss: 0.00416
+33 improved 8.306296094850486
+ -8-  Epoch [35/1020]
+Training samples: 13637 Train Loss: 0.00415
+Test samples: 2041 Test Loss: 0.00401
+34 improved 8.082596341048545
+ -8-  Epoch [36/1020]
+Training samples: 13637 Train Loss: 0.00408
+Test samples: 2041 Test Loss: 0.00393
+35 improved 8.028787690479927
+ -8-  Epoch [37/1020]
+Training samples: 13637 Train Loss: 0.00392
+Test samples: 2041 Test Loss: 0.00381
+36 improved 7.927635151752359
+ -8-  Epoch [38/1020]
+Training samples: 13637 Train Loss: 0.00385
+Test samples: 2041 Test Loss: 0.00390
+ -8-  Epoch [39/1020]
+Training samples: 13637 Train Loss: 0.00380
+Test samples: 2041 Test Loss: 0.00374
+38 improved 7.7869006338684885
+ -8-  Epoch [40/1020]
+Training samples: 13637 Train Loss: 0.00373
+Test samples: 2041 Test Loss: 0.00350
+39 improved 7.607223682693266
+ -8-  Epoch [41/1020]
+Training samples: 13637 Train Loss: 0.00361
+Test samples: 2041 Test Loss: 0.00352
+40 improved 7.544033231833353
+ -8-  Epoch [42/1020]
+Training samples: 13637 Train Loss: 0.00355
+Test samples: 2041 Test Loss: 0.00354
+41 improved 7.53540569867999
+ -8-  Epoch [43/1020]
+Training samples: 13637 Train Loss: 0.00349
+Test samples: 2041 Test Loss: 0.00332
+42 improved 7.3355988087109765
+ -8-  Epoch [44/1020]
+Training samples: 13637 Train Loss: 0.00343
+Test samples: 2041 Test Loss: 0.00332
+ -8-  Epoch [45/1020]
+Training samples: 13637 Train Loss: 0.00335
+Test samples: 2041 Test Loss: 0.00329
+44 improved 7.323232685333956
+ -8-  Epoch [46/1020]
+Training samples: 13637 Train Loss: 0.00325
+Test samples: 2041 Test Loss: 0.00318
+45 improved 7.14128833492266
+ -8-  Epoch [47/1020]
+Training samples: 13637 Train Loss: 0.00324
+Test samples: 2041 Test Loss: 0.00308
+46 improved 7.104008182598527
+ -8-  Epoch [48/1020]
+Training samples: 13637 Train Loss: 0.00321
+Test samples: 2041 Test Loss: 0.00307
+47 improved 7.03372856263493
+ -8-  Epoch [49/1020]
+Training samples: 13637 Train Loss: 0.00313
+Test samples: 2041 Test Loss: 0.00298
+ -8-  Epoch [50/1020]
+Training samples: 13637 Train Loss: 0.00312
+Test samples: 2041 Test Loss: 0.00288
+49 improved 6.846002170351543
+ -8-  Epoch [51/1020]
+Training samples: 13637 Train Loss: 0.00302
+Test samples: 2041 Test Loss: 0.00296
+ -8-  Epoch [52/1020]
+Training samples: 13637 Train Loss: 0.00298
+Test samples: 2041 Test Loss: 0.00288
+51 improved 6.845186561535878
+ -8-  Epoch [53/1020]
+Training samples: 13637 Train Loss: 0.00296
+Test samples: 2041 Test Loss: 0.00278
+52 improved 6.712236605340041
+ -8-  Epoch [54/1020]
+Training samples: 13637 Train Loss: 0.00293
+Test samples: 2041 Test Loss: 0.00279
+53 improved 6.678311517576211
+ -8-  Epoch [55/1020]
+Training samples: 13637 Train Loss: 0.00288
+Test samples: 2041 Test Loss: 0.00266
+54 improved 6.552020553745866
+ -8-  Epoch [56/1020]
+Training samples: 13637 Train Loss: 0.00285
+Test samples: 2041 Test Loss: 0.00273
+ -8-  Epoch [57/1020]
+Training samples: 13637 Train Loss: 0.00284
+Test samples: 2041 Test Loss: 0.00264
+56 improved 6.530065279506925
+ -8-  Epoch [58/1020]
+Training samples: 13637 Train Loss: 0.00276
+Test samples: 2041 Test Loss: 0.00262
+57 improved 6.4870498485275485
+ -8-  Epoch [59/1020]
+Training samples: 13637 Train Loss: 0.00271
+Test samples: 2041 Test Loss: 0.00261
+58 improved 6.479103914491689
+ -8-  Epoch [60/1020]
+Training samples: 13637 Train Loss: 0.00271
+Test samples: 2041 Test Loss: 0.00250
+59 improved 6.343347941000984
+ -8-  Epoch [61/1020]
+Training samples: 13637 Train Loss: 0.00270
+Test samples: 2041 Test Loss: 0.00254
+ -8-  Epoch [62/1020]
+Training samples: 13637 Train Loss: 0.00266
+Test samples: 2041 Test Loss: 0.00244
+61 improved 6.2915752285663435
+ -8-  Epoch [63/1020]
+Training samples: 13637 Train Loss: 0.00262
+Test samples: 2041 Test Loss: 0.00251
+ -8-  Epoch [64/1020]
+Training samples: 13637 Train Loss: 0.00259
+Test samples: 2041 Test Loss: 0.00243
+63 improved 6.287628502778012
+ -8-  Epoch [65/1020]
+Training samples: 13637 Train Loss: 0.00258
+Test samples: 2041 Test Loss: 0.00234
+64 improved 6.218585697007728
+ -8-  Epoch [66/1020]
+Training samples: 13637 Train Loss: 0.00253
+Test samples: 2041 Test Loss: 0.00241
+ -8-  Epoch [67/1020]
+Training samples: 13637 Train Loss: 0.00251
+Test samples: 2041 Test Loss: 0.00242
+ -8-  Epoch [68/1020]
+Training samples: 13637 Train Loss: 0.00251
+Test samples: 2041 Test Loss: 0.00231
+67 improved 6.0286419208233175
+ -8-  Epoch [69/1020]
+Training samples: 13637 Train Loss: 0.00245
+Test samples: 2041 Test Loss: 0.00221
+68 improved 5.989554375775126
+ -8-  Epoch [70/1020]
+Training samples: 13637 Train Loss: 0.00242
+Test samples: 2041 Test Loss: 0.00222
+69 improved 5.956160168271623
+ -8-  Epoch [71/1020]
+Training samples: 13637 Train Loss: 0.00243
+Test samples: 2041 Test Loss: 0.00219
+ -8-  Epoch [72/1020]
+Training samples: 13637 Train Loss: 0.00242
+Test samples: 2041 Test Loss: 0.00225
+ -8-  Epoch [73/1020]
+Training samples: 13637 Train Loss: 0.00235
+Test samples: 2041 Test Loss: 0.00224
+72 improved 5.946725212669093
+ -8-  Epoch [74/1020]
+Training samples: 13637 Train Loss: 0.00233
+Test samples: 2041 Test Loss: 0.00220
+ -8-  Epoch [75/1020]
+Training samples: 13637 Train Loss: 0.00231
+Test samples: 2041 Test Loss: 0.00218
+74 improved 5.899483934446388
+ -8-  Epoch [76/1020]
+Training samples: 13637 Train Loss: 0.00230
+Test samples: 2041 Test Loss: 0.00211
+75 improved 5.811259014124031
+ -8-  Epoch [77/1020]
+Training samples: 13637 Train Loss: 0.00228
+Test samples: 2041 Test Loss: 0.00207
+ -8-  Epoch [78/1020]
+Training samples: 13637 Train Loss: 0.00224
+Test samples: 2041 Test Loss: 0.00214
+ -8-  Epoch [79/1020]
+Training samples: 13637 Train Loss: 0.00226
+Test samples: 2041 Test Loss: 0.00205
+78 improved 5.792397513569482
+ -8-  Epoch [80/1020]
+Training samples: 13637 Train Loss: 0.00222
+Test samples: 2041 Test Loss: 0.00210
+ -8-  Epoch [81/1020]
+Training samples: 13637 Train Loss: 0.00221
+Test samples: 2041 Test Loss: 0.00213
+ -8-  Epoch [82/1020]
+Training samples: 13637 Train Loss: 0.00220
+Test samples: 2041 Test Loss: 0.00207
+81 improved 5.7768234559451175
+ -8-  Epoch [83/1020]
+Training samples: 13637 Train Loss: 0.00217
+Test samples: 2041 Test Loss: 0.00197
+82 improved 5.705777681790866
+ -8-  Epoch [84/1020]
+Training samples: 13637 Train Loss: 0.00213
+Test samples: 2041 Test Loss: 0.00202
+83 improved 5.699399268726459
+ -8-  Epoch [85/1020]
+Training samples: 13637 Train Loss: 0.00212
+Test samples: 2041 Test Loss: 0.00204
+ -8-  Epoch [86/1020]
+Training samples: 13637 Train Loss: 0.00211
+Test samples: 2041 Test Loss: 0.00203
+ -8-  Epoch [87/1020]
+Training samples: 13637 Train Loss: 0.00212
+Test samples: 2041 Test Loss: 0.00201
+86 improved 5.668865915959166
+ -8-  Epoch [88/1020]
+Training samples: 13637 Train Loss: 0.00209
+Test samples: 2041 Test Loss: 0.00196
+87 improved 5.594086149403535
+ -8-  Epoch [89/1020]
+Training samples: 13637 Train Loss: 0.00206
+Test samples: 2041 Test Loss: 0.00187
+88 improved 5.494256549930525
+ -8-  Epoch [90/1020]
+Training samples: 13637 Train Loss: 0.00205
+Test samples: 2041 Test Loss: 0.00193
+ -8-  Epoch [91/1020]
+Training samples: 13637 Train Loss: 0.00201
+Test samples: 2041 Test Loss: 0.00193
+ -8-  Epoch [92/1020]
+Training samples: 13637 Train Loss: 0.00199
+Test samples: 2041 Test Loss: 0.00190
+ -8-  Epoch [93/1020]
+Training samples: 13637 Train Loss: 0.00203
+Test samples: 2041 Test Loss: 0.00188
+ -8-  Epoch [94/1020]
+Training samples: 13637 Train Loss: 0.00199
+Test samples: 2041 Test Loss: 0.00186
+93 improved 5.477973754823004
+ -8-  Epoch [95/1020]
+Training samples: 13637 Train Loss: 0.00199
+Test samples: 2041 Test Loss: 0.00185
+94 improved 5.427866911899804
+ -8-  Epoch [96/1020]
+Training samples: 13637 Train Loss: 0.00197
+Test samples: 2041 Test Loss: 0.00179
+95 improved 5.4218232427257815
+ -8-  Epoch [97/1020]
+Training samples: 13637 Train Loss: 0.00195
+Test samples: 2041 Test Loss: 0.00185
+ -8-  Epoch [98/1020]
+Training samples: 13637 Train Loss: 0.00194
+Test samples: 2041 Test Loss: 0.00185
+ -8-  Epoch [99/1020]
+Training samples: 13637 Train Loss: 0.00191
+Test samples: 2041 Test Loss: 0.00182
+98 improved 5.41156258552697
+ -8-  Epoch [100/1020]
+Training samples: 13637 Train Loss: 0.00192
+Test samples: 2041 Test Loss: 0.00185
+ -8-  Epoch [101/1020]
+Training samples: 13637 Train Loss: 0.00189
+Test samples: 2041 Test Loss: 0.00186
+ -8-  Epoch [102/1020]
+Training samples: 13637 Train Loss: 0.00186
+Test samples: 2041 Test Loss: 0.00179
+101 improved 5.356474394660438
+ -8-  Epoch [103/1020]
+Training samples: 13637 Train Loss: 0.00187
+Test samples: 2041 Test Loss: 0.00173
+102 improved 5.318468010700083
+ -8-  Epoch [104/1020]
+Training samples: 13637 Train Loss: 0.00185
+Test samples: 2041 Test Loss: 0.00183
+ -8-  Epoch [105/1020]
+Training samples: 13637 Train Loss: 0.00184
+Test samples: 2041 Test Loss: 0.00174
+104 improved 5.307415406649047
+ -8-  Epoch [106/1020]
+Training samples: 13637 Train Loss: 0.00180
+Test samples: 2041 Test Loss: 0.00176
+ -8-  Epoch [107/1020]
+Training samples: 13637 Train Loss: 0.00181
+Test samples: 2041 Test Loss: 0.00180
+ -8-  Epoch [108/1020]
+Training samples: 13637 Train Loss: 0.00181
+Test samples: 2041 Test Loss: 0.00178
+ -8-  Epoch [109/1020]
+Training samples: 13637 Train Loss: 0.00179
+Test samples: 2041 Test Loss: 0.00175
+108 improved 5.269617270395372
+ -8-  Epoch [110/1020]
+Training samples: 13637 Train Loss: 0.00178
+Test samples: 2041 Test Loss: 0.00168
+109 improved 5.147415564844038
+ -8-  Epoch [111/1020]
+Training samples: 13637 Train Loss: 0.00179
+Test samples: 2041 Test Loss: 0.00165
+ -8-  Epoch [112/1020]
+Training samples: 13637 Train Loss: 0.00175
+Test samples: 2041 Test Loss: 0.00174
+ -8-  Epoch [113/1020]
+Training samples: 13637 Train Loss: 0.00175
+Test samples: 2041 Test Loss: 0.00167
+ -8-  Epoch [114/1020]
+Training samples: 13637 Train Loss: 0.00173
+Test samples: 2041 Test Loss: 0.00169
+ -8-  Epoch [115/1020]
+Training samples: 13637 Train Loss: 0.00171
+Test samples: 2041 Test Loss: 0.00175
+ -8-  Epoch [116/1020]
+Training samples: 13637 Train Loss: 0.00172
+Test samples: 2041 Test Loss: 0.00166
+ -8-  Epoch [117/1020]
+Training samples: 13637 Train Loss: 0.00169
+Test samples: 2041 Test Loss: 0.00159
+116 improved 5.058528109545336
+ -8-  Epoch [118/1020]
+Training samples: 13637 Train Loss: 0.00171
+Test samples: 2041 Test Loss: 0.00159
+ -8-  Epoch [119/1020]
+Training samples: 13637 Train Loss: 0.00169
+Test samples: 2041 Test Loss: 0.00164
+ -8-  Epoch [120/1020]
+Training samples: 13637 Train Loss: 0.00166
+Test samples: 2041 Test Loss: 0.00159
+ -8-  Epoch [121/1020]
+Training samples: 13637 Train Loss: 0.00167
+Test samples: 2041 Test Loss: 0.00165
+ -8-  Epoch [122/1020]
+Training samples: 13637 Train Loss: 0.00167
+Test samples: 2041 Test Loss: 0.00154
+121 improved 5.014223269771443
+ -8-  Epoch [123/1020]
+Training samples: 13637 Train Loss: 0.00166
+Test samples: 2041 Test Loss: 0.00157
+ -8-  Epoch [124/1020]
+Training samples: 13637 Train Loss: 0.00164
+Test samples: 2041 Test Loss: 0.00162
+ -8-  Epoch [125/1020]
+Training samples: 13637 Train Loss: 0.00162
+Test samples: 2041 Test Loss: 0.00157
+124 improved 4.972128300384117
+ -8-  Epoch [126/1020]
+Training samples: 13637 Train Loss: 0.00162
+Test samples: 2041 Test Loss: 0.00162
+ -8-  Epoch [127/1020]
+Training samples: 13637 Train Loss: 0.00162
+Test samples: 2041 Test Loss: 0.00153
+126 improved 4.952325816250268
+ -8-  Epoch [128/1020]
+Training samples: 13637 Train Loss: 0.00159
+Test samples: 2041 Test Loss: 0.00151
+ -8-  Epoch [129/1020]
+Training samples: 13637 Train Loss: 0.00159
+Test samples: 2041 Test Loss: 0.00155
+ -8-  Epoch [130/1020]
+Training samples: 13637 Train Loss: 0.00157
+Test samples: 2041 Test Loss: 0.00153
+ -8-  Epoch [131/1020]
+Training samples: 13637 Train Loss: 0.00158
+Test samples: 2041 Test Loss: 0.00158
+ -8-  Epoch [132/1020]
+Training samples: 13637 Train Loss: 0.00156
+Test samples: 2041 Test Loss: 0.00152
+131 improved 4.91023376255512
+ -8-  Epoch [133/1020]
+Training samples: 13637 Train Loss: 0.00157
+Test samples: 2041 Test Loss: 0.00151
+ -8-  Epoch [134/1020]
+Training samples: 13637 Train Loss: 0.00154
+Test samples: 2041 Test Loss: 0.00151
+ -8-  Epoch [135/1020]
+Training samples: 13637 Train Loss: 0.00154
+Test samples: 2041 Test Loss: 0.00151
+134 improved 4.9050101878770365
+ -8-  Epoch [136/1020]
+Training samples: 13637 Train Loss: 0.00155
+Test samples: 2041 Test Loss: 0.00150
+ -8-  Epoch [137/1020]
+Training samples: 13637 Train Loss: 0.00151
+Test samples: 2041 Test Loss: 0.00151
+136 improved 4.856943768768087
+ -8-  Epoch [138/1020]
+Training samples: 13637 Train Loss: 0.00151
+Test samples: 2041 Test Loss: 0.00150
+ -8-  Epoch [139/1020]
+Training samples: 13637 Train Loss: 0.00151
+Test samples: 2041 Test Loss: 0.00151
+ -8-  Epoch [140/1020]
+Training samples: 13637 Train Loss: 0.00150
+Test samples: 2041 Test Loss: 0.00144
+139 improved 4.7811626862334835
+ -8-  Epoch [141/1020]
+Training samples: 13637 Train Loss: 0.00150
+Test samples: 2041 Test Loss: 0.00146
+ -8-  Epoch [142/1020]
+Training samples: 13637 Train Loss: 0.00150
+Test samples: 2041 Test Loss: 0.00138
+141 improved 4.705527949017792
+ -8-  Epoch [143/1020]
+Training samples: 13637 Train Loss: 0.00151
+Test samples: 2041 Test Loss: 0.00147
+ -8-  Epoch [144/1020]
+Training samples: 13637 Train Loss: 0.00148
+Test samples: 2041 Test Loss: 0.00139
+ -8-  Epoch [145/1020]
+Training samples: 13637 Train Loss: 0.00149
+Test samples: 2041 Test Loss: 0.00143
+ -8-  Epoch [146/1020]
+Training samples: 13637 Train Loss: 0.00146
+Test samples: 2041 Test Loss: 0.00136
+145 improved 4.685431764968057
+ -8-  Epoch [147/1020]
+Training samples: 13637 Train Loss: 0.00145
+Test samples: 2041 Test Loss: 0.00140
+ -8-  Epoch [148/1020]
+Training samples: 13637 Train Loss: 0.00145
+Test samples: 2041 Test Loss: 0.00139
+ -8-  Epoch [149/1020]
+Training samples: 13637 Train Loss: 0.00143
+Test samples: 2041 Test Loss: 0.00137
+ -8-  Epoch [150/1020]
+Training samples: 13637 Train Loss: 0.00144
+Test samples: 2041 Test Loss: 0.00140
+ -8-  Epoch [151/1020]
+Training samples: 13637 Train Loss: 0.00142
+Test samples: 2041 Test Loss: 0.00136
+ -8-  Epoch [152/1020]
+Training samples: 13637 Train Loss: 0.00142
+Test samples: 2041 Test Loss: 0.00143
+ -8-  Epoch [153/1020]
+Training samples: 13637 Train Loss: 0.00141
+Test samples: 2041 Test Loss: 0.00139
+ -8-  Epoch [154/1020]
+Training samples: 13637 Train Loss: 0.00141
+Test samples: 2041 Test Loss: 0.00138
+ -8-  Epoch [155/1020]
+Training samples: 13637 Train Loss: 0.00140
+Test samples: 2041 Test Loss: 0.00137
+ -8-  Epoch [156/1020]
+Training samples: 13637 Train Loss: 0.00139
+Test samples: 2041 Test Loss: 0.00142
+ -8-  Epoch [157/1020]
+Training samples: 13637 Train Loss: 0.00139
+Test samples: 2041 Test Loss: 0.00139
+ -8-  Epoch [158/1020]
+Training samples: 13637 Train Loss: 0.00137
+Test samples: 2041 Test Loss: 0.00137
+157 improved 4.671754813673215
+ -8-  Epoch [159/1020]
+Training samples: 13637 Train Loss: 0.00137
+Test samples: 2041 Test Loss: 0.00132
+158 improved 4.60535115789164
+ -8-  Epoch [160/1020]
+Training samples: 13637 Train Loss: 0.00134
+Test samples: 2041 Test Loss: 0.00133
+ -8-  Epoch [161/1020]
+Training samples: 13637 Train Loss: 0.00137
+Test samples: 2041 Test Loss: 0.00130
+160 improved 4.578475653103086
+ -8-  Epoch [162/1020]
+Training samples: 13637 Train Loss: 0.00136
+Test samples: 2041 Test Loss: 0.00133
+ -8-  Epoch [163/1020]
+Training samples: 13637 Train Loss: 0.00136
+Test samples: 2041 Test Loss: 0.00133
+ -8-  Epoch [164/1020]
+Training samples: 13637 Train Loss: 0.00133
+Test samples: 2041 Test Loss: 0.00129
+ -8-  Epoch [165/1020]
+Training samples: 13637 Train Loss: 0.00134
+Test samples: 2041 Test Loss: 0.00126
+164 improved 4.544471280940429
+ -8-  Epoch [166/1020]
+Training samples: 13637 Train Loss: 0.00133
+Test samples: 2041 Test Loss: 0.00125
+ -8-  Epoch [167/1020]
+Training samples: 13637 Train Loss: 0.00132
+Test samples: 2041 Test Loss: 0.00134
+ -8-  Epoch [168/1020]
+Training samples: 13637 Train Loss: 0.00132
+Test samples: 2041 Test Loss: 0.00125
+167 improved 4.504936849995024
+ -8-  Epoch [169/1020]
+Training samples: 13637 Train Loss: 0.00131
+Test samples: 2041 Test Loss: 0.00127
+168 improved 4.465523644559002
+ -8-  Epoch [170/1020]
+Training samples: 13637 Train Loss: 0.00130
+Test samples: 2041 Test Loss: 0.00124
+ -8-  Epoch [171/1020]
+Training samples: 13637 Train Loss: 0.00130
+Test samples: 2041 Test Loss: 0.00127
+ -8-  Epoch [172/1020]
+Training samples: 13637 Train Loss: 0.00130
+Test samples: 2041 Test Loss: 0.00133
+ -8-  Epoch [173/1020]
+Training samples: 13637 Train Loss: 0.00128
+Test samples: 2041 Test Loss: 0.00131
+ -8-  Epoch [174/1020]
+Training samples: 13637 Train Loss: 0.00130
+Test samples: 2041 Test Loss: 0.00127
+ -8-  Epoch [175/1020]
+Training samples: 13637 Train Loss: 0.00127
+Test samples: 2041 Test Loss: 0.00129
+ -8-  Epoch [176/1020]
+Training samples: 13637 Train Loss: 0.00129
+Test samples: 2041 Test Loss: 0.00124
+ -8-  Epoch [177/1020]
+Training samples: 13637 Train Loss: 0.00129
+Test samples: 2041 Test Loss: 0.00125
+ -8-  Epoch [178/1020]
+Training samples: 13637 Train Loss: 0.00126
+Test samples: 2041 Test Loss: 0.00125
+ -8-  Epoch [179/1020]
+Training samples: 13637 Train Loss: 0.00127
+Test samples: 2041 Test Loss: 0.00123
+ -8-  Epoch [180/1020]
+Training samples: 13637 Train Loss: 0.00126
+Test samples: 2041 Test Loss: 0.00122
+ -8-  Epoch [181/1020]
+Training samples: 13637 Train Loss: 0.00125
+Test samples: 2041 Test Loss: 0.00126
+ -8-  Epoch [182/1020]
+Training samples: 13637 Train Loss: 0.00126
+Test samples: 2041 Test Loss: 0.00123
+ -8-  Epoch [183/1020]
+Training samples: 13637 Train Loss: 0.00126
+Test samples: 2041 Test Loss: 0.00119
+182 improved 4.414816617615255
+ -8-  Epoch [184/1020]
+Training samples: 13637 Train Loss: 0.00123
+Test samples: 2041 Test Loss: 0.00123
+ -8-  Epoch [185/1020]
+Training samples: 13637 Train Loss: 0.00123
+Test samples: 2041 Test Loss: 0.00119
+184 improved 4.39458003177297
+ -8-  Epoch [186/1020]
+Training samples: 13637 Train Loss: 0.00123
+Test samples: 2041 Test Loss: 0.00123
+ -8-  Epoch [187/1020]
+Training samples: 13637 Train Loss: 0.00123
+Test samples: 2041 Test Loss: 0.00122
+ -8-  Epoch [188/1020]
+Training samples: 13637 Train Loss: 0.00124
+Test samples: 2041 Test Loss: 0.00119
+ -8-  Epoch [189/1020]
+Training samples: 13637 Train Loss: 0.00122
+Test samples: 2041 Test Loss: 0.00118
+ -8-  Epoch [190/1020]
+Training samples: 13637 Train Loss: 0.00122
+Test samples: 2041 Test Loss: 0.00120
+ -8-  Epoch [191/1020]
+Training samples: 13637 Train Loss: 0.00122
+Test samples: 2041 Test Loss: 0.00122
+ -8-  Epoch [192/1020]
+Training samples: 13637 Train Loss: 0.00120
+Test samples: 2041 Test Loss: 0.00116
+191 improved 4.344093812440669
+ -8-  Epoch [193/1020]
+Training samples: 13637 Train Loss: 0.00118
+Test samples: 2041 Test Loss: 0.00120
+ -8-  Epoch [194/1020]
+Training samples: 13637 Train Loss: 0.00120
+Test samples: 2041 Test Loss: 0.00122
+ -8-  Epoch [195/1020]
+Training samples: 13637 Train Loss: 0.00119
+Test samples: 2041 Test Loss: 0.00122
+ -8-  Epoch [196/1020]
+Training samples: 13637 Train Loss: 0.00119
+Test samples: 2041 Test Loss: 0.00119
+ -8-  Epoch [197/1020]
+Training samples: 13637 Train Loss: 0.00117
+Test samples: 2041 Test Loss: 0.00112
+196 improved 4.294928065238778
+ -8-  Epoch [198/1020]
+Training samples: 13637 Train Loss: 0.00118
+Test samples: 2041 Test Loss: 0.00111
+197 improved 4.293866416860129
+ -8-  Epoch [199/1020]
+Training samples: 13637 Train Loss: 0.00116
+Test samples: 2041 Test Loss: 0.00115
+ -8-  Epoch [200/1020]
+Training samples: 13637 Train Loss: 0.00116
+Test samples: 2041 Test Loss: 0.00118
+ -8-  Epoch [201/1020]
+Training samples: 13637 Train Loss: 0.00117
+Test samples: 2041 Test Loss: 0.00117
+ -8-  Epoch [202/1020]
+Training samples: 13637 Train Loss: 0.00116
+Test samples: 2041 Test Loss: 0.00113
+201 improved 4.284879356432872
+ -8-  Epoch [203/1020]
+Training samples: 13637 Train Loss: 0.00117
+Test samples: 2041 Test Loss: 0.00115
+ -8-  Epoch [204/1020]
+Training samples: 13637 Train Loss: 0.00115
+Test samples: 2041 Test Loss: 0.00113
+ -8-  Epoch [205/1020]
+Training samples: 13637 Train Loss: 0.00115
+Test samples: 2041 Test Loss: 0.00115
+ -8-  Epoch [206/1020]
+Training samples: 13637 Train Loss: 0.00116
+Test samples: 2041 Test Loss: 0.00112
+ -8-  Epoch [207/1020]
+Training samples: 13637 Train Loss: 0.00115
+Test samples: 2041 Test Loss: 0.00116
+ -8-  Epoch [208/1020]
+Training samples: 13637 Train Loss: 0.00114
+Test samples: 2041 Test Loss: 0.00117
+ -8-  Epoch [209/1020]
+Training samples: 13637 Train Loss: 0.00114
+Test samples: 2041 Test Loss: 0.00112
+ -8-  Epoch [210/1020]
+Training samples: 13637 Train Loss: 0.00115
+Test samples: 2041 Test Loss: 0.00110
+209 improved 4.280408703188637
+ -8-  Epoch [211/1020]
+Training samples: 13637 Train Loss: 0.00112
+Test samples: 2041 Test Loss: 0.00111
+210 improved 4.264979981605123
+ -8-  Epoch [212/1020]
+Training samples: 13637 Train Loss: 0.00111
+Test samples: 2041 Test Loss: 0.00113
+ -8-  Epoch [213/1020]
+Training samples: 13637 Train Loss: 0.00111
+Test samples: 2041 Test Loss: 0.00116
+ -8-  Epoch [214/1020]
+Training samples: 13637 Train Loss: 0.00112
+Test samples: 2041 Test Loss: 0.00118
+ -8-  Epoch [215/1020]
+Training samples: 13637 Train Loss: 0.00110
+Test samples: 2041 Test Loss: 0.00108
+214 improved 4.233141856588376
+ -8-  Epoch [216/1020]
+Training samples: 13637 Train Loss: 0.00111
+Test samples: 2041 Test Loss: 0.00110
+ -8-  Epoch [217/1020]
+Training samples: 13637 Train Loss: 0.00110
+Test samples: 2041 Test Loss: 0.00113
+ -8-  Epoch [218/1020]
+Training samples: 13637 Train Loss: 0.00109
+Test samples: 2041 Test Loss: 0.00111
+ -8-  Epoch [219/1020]
+Training samples: 13637 Train Loss: 0.00110
+Test samples: 2041 Test Loss: 0.00112
+ -8-  Epoch [220/1020]
+Training samples: 13637 Train Loss: 0.00109
+Test samples: 2041 Test Loss: 0.00109
+ -8-  Epoch [221/1020]
+Training samples: 13637 Train Loss: 0.00110
+Test samples: 2041 Test Loss: 0.00110
+ -8-  Epoch [222/1020]
+Training samples: 13637 Train Loss: 0.00108
+Test samples: 2041 Test Loss: 0.00103
+221 improved 4.16279214787051
+ -8-  Epoch [223/1020]
+Training samples: 13637 Train Loss: 0.00110
+Test samples: 2041 Test Loss: 0.00108
+ -8-  Epoch [224/1020]
+Training samples: 13637 Train Loss: 0.00108
+Test samples: 2041 Test Loss: 0.00105
+ -8-  Epoch [225/1020]
+Training samples: 13637 Train Loss: 0.00109
+Test samples: 2041 Test Loss: 0.00108
+ -8-  Epoch [226/1020]
+Training samples: 13637 Train Loss: 0.00107
+Test samples: 2041 Test Loss: 0.00117
+ -8-  Epoch [227/1020]
+Training samples: 13637 Train Loss: 0.00107
+Test samples: 2041 Test Loss: 0.00110
+ -8-  Epoch [228/1020]
+Training samples: 13637 Train Loss: 0.00106
+Test samples: 2041 Test Loss: 0.00104
+ -8-  Epoch [229/1020]
+Training samples: 13637 Train Loss: 0.00106
+Test samples: 2041 Test Loss: 0.00109
+ -8-  Epoch [230/1020]
+Training samples: 13637 Train Loss: 0.00105
+Test samples: 2041 Test Loss: 0.00103
+229 improved 4.158510790333801
+ -8-  Epoch [231/1020]
+Training samples: 13637 Train Loss: 0.00106
+Test samples: 2041 Test Loss: 0.00106
+ -8-  Epoch [232/1020]
+Training samples: 13637 Train Loss: 0.00107
+Test samples: 2041 Test Loss: 0.00106
+231 improved 4.1530714544345795
+ -8-  Epoch [233/1020]
+Training samples: 13637 Train Loss: 0.00104
+Test samples: 2041 Test Loss: 0.00108
+ -8-  Epoch [234/1020]
+Training samples: 13637 Train Loss: 0.00103
+Test samples: 2041 Test Loss: 0.00106
+ -8-  Epoch [235/1020]
+Training samples: 13637 Train Loss: 0.00104
+Test samples: 2041 Test Loss: 0.00105
+ -8-  Epoch [236/1020]
+Training samples: 13637 Train Loss: 0.00104
+Test samples: 2041 Test Loss: 0.00104
+ -8-  Epoch [237/1020]
+Training samples: 13637 Train Loss: 0.00104
+Test samples: 2041 Test Loss: 0.00104
+ -8-  Epoch [238/1020]
+Training samples: 13637 Train Loss: 0.00103
+Test samples: 2041 Test Loss: 0.00108
+ -8-  Epoch [239/1020]
+Training samples: 13637 Train Loss: 0.00103
+Test samples: 2041 Test Loss: 0.00109
+ -8-  Epoch [240/1020]
+Training samples: 13637 Train Loss: 0.00103
+Test samples: 2041 Test Loss: 0.00105
+ -8-  Epoch [241/1020]
+Training samples: 13637 Train Loss: 0.00102
+Test samples: 2041 Test Loss: 0.00104
+240 improved 4.149252234108012
+ -8-  Epoch [242/1020]
+Training samples: 13637 Train Loss: 0.00102
+Test samples: 2041 Test Loss: 0.00100
+241 improved 4.082294933238724
+ -8-  Epoch [243/1020]
+Training samples: 13637 Train Loss: 0.00102
+Test samples: 2041 Test Loss: 0.00103
+ -8-  Epoch [244/1020]
+Training samples: 13637 Train Loss: 0.00101
+Test samples: 2041 Test Loss: 0.00102
+ -8-  Epoch [245/1020]
+Training samples: 13637 Train Loss: 0.00101
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [246/1020]
+Training samples: 13637 Train Loss: 0.00102
+Test samples: 2041 Test Loss: 0.00101
+245 improved 4.0789811369369335
+ -8-  Epoch [247/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00102
+ -8-  Epoch [248/1020]
+Training samples: 13637 Train Loss: 0.00101
+Test samples: 2041 Test Loss: 0.00100
+ -8-  Epoch [249/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00098
+248 improved 4.010056753125862
+ -8-  Epoch [250/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00099
+ -8-  Epoch [251/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00099
+ -8-  Epoch [252/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00107
+ -8-  Epoch [253/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00097
+252 improved 3.9996491898981046
+ -8-  Epoch [254/1020]
+Training samples: 13637 Train Loss: 0.00100
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [255/1020]
+Training samples: 13637 Train Loss: 0.00098
+Test samples: 2041 Test Loss: 0.00098
+ -8-  Epoch [256/1020]
+Training samples: 13637 Train Loss: 0.00098
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [257/1020]
+Training samples: 13637 Train Loss: 0.00099
+Test samples: 2041 Test Loss: 0.00100
+ -8-  Epoch [258/1020]
+Training samples: 13637 Train Loss: 0.00098
+Test samples: 2041 Test Loss: 0.00095
+257 improved 3.9842749693299084
+ -8-  Epoch [259/1020]
+Training samples: 13637 Train Loss: 0.00098
+Test samples: 2041 Test Loss: 0.00102
+ -8-  Epoch [260/1020]
+Training samples: 13637 Train Loss: 0.00099
+Test samples: 2041 Test Loss: 0.00106
+ -8-  Epoch [261/1020]
+Training samples: 13637 Train Loss: 0.00098
+Test samples: 2041 Test Loss: 0.00098
+ -8-  Epoch [262/1020]
+Training samples: 13637 Train Loss: 0.00097
+Test samples: 2041 Test Loss: 0.00096
+ -8-  Epoch [263/1020]
+Training samples: 13637 Train Loss: 0.00097
+Test samples: 2041 Test Loss: 0.00099
+ -8-  Epoch [264/1020]
+Training samples: 13637 Train Loss: 0.00096
+Test samples: 2041 Test Loss: 0.00105
+ -8-  Epoch [265/1020]
+Training samples: 13637 Train Loss: 0.00096
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [266/1020]
+Training samples: 13637 Train Loss: 0.00096
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [267/1020]
+Training samples: 13637 Train Loss: 0.00094
+Test samples: 2041 Test Loss: 0.00097
+ -8-  Epoch [268/1020]
+Training samples: 13637 Train Loss: 0.00096
+Test samples: 2041 Test Loss: 0.00103
+ -8-  Epoch [269/1020]
+Training samples: 13637 Train Loss: 0.00095
+Test samples: 2041 Test Loss: 0.00102
+ -8-  Epoch [270/1020]
+Training samples: 13637 Train Loss: 0.00094
+Test samples: 2041 Test Loss: 0.00098
+ -8-  Epoch [271/1020]
+Training samples: 13637 Train Loss: 0.00093
+Test samples: 2041 Test Loss: 0.00094
+270 improved 3.97405524396359
+ -8-  Epoch [272/1020]
+Training samples: 13637 Train Loss: 0.00095
+Test samples: 2041 Test Loss: 0.00101
+ -8-  Epoch [273/1020]
+Training samples: 13637 Train Loss: 0.00094
+Test samples: 2041 Test Loss: 0.00100
+ -8-  Epoch [274/1020]
+Training samples: 13637 Train Loss: 0.00093
+Test samples: 2041 Test Loss: 0.00095
+ -8-  Epoch [275/1020]
+Training samples: 13637 Train Loss: 0.00093
+Test samples: 2041 Test Loss: 0.00097
+ -8-  Epoch [276/1020]
+Training samples: 13637 Train Loss: 0.00094
+Test samples: 2041 Test Loss: 0.00098
+ -8-  Epoch [277/1020]
+Training samples: 13637 Train Loss: 0.00095
+Test samples: 2041 Test Loss: 0.00094
+ -8-  Epoch [278/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00100
+ -8-  Epoch [279/1020]
+Training samples: 13637 Train Loss: 0.00093
+Test samples: 2041 Test Loss: 0.00095
+278 improved 3.969934810206681
+ -8-  Epoch [280/1020]
+Training samples: 13637 Train Loss: 0.00093
+Test samples: 2041 Test Loss: 0.00097
+ -8-  Epoch [281/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00095
+ -8-  Epoch [282/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00093
+281 improved 3.954637743339184
+ -8-  Epoch [283/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00096
+ -8-  Epoch [284/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00094
+283 improved 3.9402301868698513
+ -8-  Epoch [285/1020]
+Training samples: 13637 Train Loss: 0.00094
+Test samples: 2041 Test Loss: 0.00094
+284 improved 3.9291420338026515
+ -8-  Epoch [286/1020]
+Training samples: 13637 Train Loss: 0.00092
+Test samples: 2041 Test Loss: 0.00094
+ -8-  Epoch [287/1020]
+Training samples: 13637 Train Loss: 0.00091
+Test samples: 2041 Test Loss: 0.00093
+286 improved 3.9246569142395358
+ -8-  Epoch [288/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00085
+287 improved 3.8612716727137624
+ -8-  Epoch [289/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00093
+ -8-  Epoch [290/1020]
+Training samples: 13637 Train Loss: 0.00089
+Test samples: 2041 Test Loss: 0.00090
+ -8-  Epoch [291/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00094
+ -8-  Epoch [292/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00096
+ -8-  Epoch [293/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00093
+ -8-  Epoch [294/1020]
+Training samples: 13637 Train Loss: 0.00089
+Test samples: 2041 Test Loss: 0.00093
+ -8-  Epoch [295/1020]
+Training samples: 13637 Train Loss: 0.00089
+Test samples: 2041 Test Loss: 0.00088
+294 improved 3.8600673797024285
+ -8-  Epoch [296/1020]
+Training samples: 13637 Train Loss: 0.00090
+Test samples: 2041 Test Loss: 0.00091
+ -8-  Epoch [297/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00093
+ -8-  Epoch [298/1020]
+Training samples: 13637 Train Loss: 0.00089
+Test samples: 2041 Test Loss: 0.00095
+ -8-  Epoch [299/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00088
+298 improved 3.848610728000788
+ -8-  Epoch [300/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00089
+ -8-  Epoch [301/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00093
+ -8-  Epoch [302/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00090
+ -8-  Epoch [303/1020]
+Training samples: 13637 Train Loss: 0.00086
+Test samples: 2041 Test Loss: 0.00088
+ -8-  Epoch [304/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00095
+ -8-  Epoch [305/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00094
+ -8-  Epoch [306/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00085
+305 improved 3.80621387233108
+ -8-  Epoch [307/1020]
+Training samples: 13637 Train Loss: 0.00086
+Test samples: 2041 Test Loss: 0.00091
+ -8-  Epoch [308/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00090
+ -8-  Epoch [309/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00092
+ -8-  Epoch [310/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00091
+ -8-  Epoch [311/1020]
+Training samples: 13637 Train Loss: 0.00088
+Test samples: 2041 Test Loss: 0.00088
+ -8-  Epoch [312/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00089
+ -8-  Epoch [313/1020]
+Training samples: 13637 Train Loss: 0.00086
+Test samples: 2041 Test Loss: 0.00083
+312 improved 3.761190650861442
+ -8-  Epoch [314/1020]
+Training samples: 13637 Train Loss: 0.00086
+Test samples: 2041 Test Loss: 0.00089
+ -8-  Epoch [315/1020]
+Training samples: 13637 Train Loss: 0.00087
+Test samples: 2041 Test Loss: 0.00088
+ -8-  Epoch [316/1020]
+Training samples: 13637 Train Loss: 0.00085
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [317/1020]
+Training samples: 13637 Train Loss: 0.00085
+Test samples: 2041 Test Loss: 0.00090
+ -8-  Epoch [318/1020]
+Training samples: 13637 Train Loss: 0.00085
+Test samples: 2041 Test Loss: 0.00085
+ -8-  Epoch [319/1020]
+Training samples: 13637 Train Loss: 0.00085
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [320/1020]
+Training samples: 13637 Train Loss: 0.00084
+Test samples: 2041 Test Loss: 0.00086
+ -8-  Epoch [321/1020]
+Training samples: 13637 Train Loss: 0.00084
+Test samples: 2041 Test Loss: 0.00085
+ -8-  Epoch [322/1020]
+Training samples: 13637 Train Loss: 0.00085
+Test samples: 2041 Test Loss: 0.00089
+ -8-  Epoch [323/1020]
+Training samples: 13637 Train Loss: 0.00082
+Test samples: 2041 Test Loss: 0.00088
+ -8-  Epoch [324/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [325/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00086
+ -8-  Epoch [326/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [327/1020]
+Training samples: 13637 Train Loss: 0.00084
+Test samples: 2041 Test Loss: 0.00080
+326 improved 3.7099254931497083
+ -8-  Epoch [328/1020]
+Training samples: 13637 Train Loss: 0.00082
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [329/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00086
+ -8-  Epoch [330/1020]
+Training samples: 13637 Train Loss: 0.00084
+Test samples: 2041 Test Loss: 0.00089
+ -8-  Epoch [331/1020]
+Training samples: 13637 Train Loss: 0.00082
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [332/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [333/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00082
+ -8-  Epoch [334/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00082
+ -8-  Epoch [335/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00085
+ -8-  Epoch [336/1020]
+Training samples: 13637 Train Loss: 0.00083
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [337/1020]
+Training samples: 13637 Train Loss: 0.00082
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [338/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00085
+ -8-  Epoch [339/1020]
+Training samples: 13637 Train Loss: 0.00082
+Test samples: 2041 Test Loss: 0.00080
+338 improved 3.6827886974852446
+ -8-  Epoch [340/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00086
+ -8-  Epoch [341/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [342/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00082
+ -8-  Epoch [343/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [344/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [345/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00087
+ -8-  Epoch [346/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [347/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [348/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [349/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [350/1020]
+Training samples: 13637 Train Loss: 0.00080
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [351/1020]
+Training samples: 13637 Train Loss: 0.00081
+Test samples: 2041 Test Loss: 0.00085
+ -8-  Epoch [352/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00080
+ -8-  Epoch [353/1020]
+Training samples: 13637 Train Loss: 0.00078
+Test samples: 2041 Test Loss: 0.00078
+352 improved 3.621307795448434
+ -8-  Epoch [354/1020]
+Training samples: 13637 Train Loss: 0.00078
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [355/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [356/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [357/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00080
+ -8-  Epoch [358/1020]
+Training samples: 13637 Train Loss: 0.00078
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [359/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [360/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00080
+ -8-  Epoch [361/1020]
+Training samples: 13637 Train Loss: 0.00078
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [362/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00080
+ -8-  Epoch [363/1020]
+Training samples: 13637 Train Loss: 0.00079
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [364/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00082
+ -8-  Epoch [365/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00084
+ -8-  Epoch [366/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [367/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [368/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [369/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [370/1020]
+Training samples: 13637 Train Loss: 0.00078
+Test samples: 2041 Test Loss: 0.00076
+369 improved 3.599655192485923
+ -8-  Epoch [371/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [372/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [373/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [374/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00080
+ -8-  Epoch [375/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [376/1020]
+Training samples: 13637 Train Loss: 0.00075
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [377/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00083
+ -8-  Epoch [378/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [379/1020]
+Training samples: 13637 Train Loss: 0.00075
+Test samples: 2041 Test Loss: 0.00082
+ -8-  Epoch [380/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [381/1020]
+Training samples: 13637 Train Loss: 0.00075
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [382/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [383/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [384/1020]
+Training samples: 13637 Train Loss: 0.00077
+Test samples: 2041 Test Loss: 0.00075
+383 improved 3.5683326964165754
+ -8-  Epoch [385/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [386/1020]
+Training samples: 13637 Train Loss: 0.00075
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [387/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [388/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [389/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [390/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [391/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [392/1020]
+Training samples: 13637 Train Loss: 0.00076
+Test samples: 2041 Test Loss: 0.00073
+391 improved 3.545561533006951
+ -8-  Epoch [393/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [394/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [395/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [396/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [397/1020]
+Training samples: 13637 Train Loss: 0.00074
+Test samples: 2041 Test Loss: 0.00079
+ -8-  Epoch [398/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [399/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [400/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [401/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00071
+400 improved 3.494580543140522
+ -8-  Epoch [402/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [403/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [404/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [405/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [406/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00081
+ -8-  Epoch [407/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [408/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [409/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [410/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [411/1020]
+Training samples: 13637 Train Loss: 0.00073
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [412/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [413/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [414/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [415/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [416/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [417/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [418/1020]
+Training samples: 13637 Train Loss: 0.00072
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [419/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [420/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [421/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00077
+ -8-  Epoch [422/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00078
+ -8-  Epoch [423/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [424/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [425/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [426/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [427/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00069
+426 improved 3.455724571336431
+ -8-  Epoch [428/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [429/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [430/1020]
+Training samples: 13637 Train Loss: 0.00071
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [431/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [432/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [433/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [434/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00076
+ -8-  Epoch [435/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [436/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [437/1020]
+Training samples: 13637 Train Loss: 0.00070
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [438/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [439/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00070
+438 improved 3.4523431534045237
+ -8-  Epoch [440/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [441/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00068
+440 improved 3.4105106523841813
+ -8-  Epoch [442/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [443/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [444/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [445/1020]
+Training samples: 13637 Train Loss: 0.00069
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [446/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00074
+ -8-  Epoch [447/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [448/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [449/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [450/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [451/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00065
+450 improved 3.3644248853998406
+ -8-  Epoch [452/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [453/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [454/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [455/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [456/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [457/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [458/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [459/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [460/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00075
+ -8-  Epoch [461/1020]
+Training samples: 13637 Train Loss: 0.00068
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [462/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [463/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [464/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [465/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [466/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [467/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [468/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [469/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [470/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [471/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [472/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [473/1020]
+Training samples: 13637 Train Loss: 0.00067
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [474/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [475/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [476/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [477/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [478/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [479/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [480/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [481/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [482/1020]
+Training samples: 13637 Train Loss: 0.00066
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [483/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00073
+ -8-  Epoch [484/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [485/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00064
+484 improved 3.3385809188611013
+ -8-  Epoch [486/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [487/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [488/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [489/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [490/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [491/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [492/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [493/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [494/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [495/1020]
+Training samples: 13637 Train Loss: 0.00065
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [496/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [497/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [498/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [499/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [500/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [501/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [502/1020]
+Training samples: 13637 Train Loss: 0.00064
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [503/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [504/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [505/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [506/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [507/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [508/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [509/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [510/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00070
+ -8-  Epoch [511/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00071
+ -8-  Epoch [512/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [513/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [514/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [515/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [516/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [517/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [518/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [519/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [520/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [521/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [522/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [523/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [524/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [525/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [526/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00072
+ -8-  Epoch [527/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [528/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [529/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [530/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [531/1020]
+Training samples: 13637 Train Loss: 0.00063
+Test samples: 2041 Test Loss: 0.00064
+530 improved 3.336062377600738
+ -8-  Epoch [532/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [533/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [534/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [535/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [536/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [537/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00064
+536 improved 3.320159575683355
+ -8-  Epoch [538/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [539/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [540/1020]
+Training samples: 13637 Train Loss: 0.00062
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [541/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [542/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [543/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [544/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00063
+543 improved 3.2966918421983133
+ -8-  Epoch [545/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [546/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [547/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [548/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [549/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [550/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00063
+549 improved 3.287192292799849
+ -8-  Epoch [551/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [552/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [553/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [554/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [555/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [556/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [557/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00063
+556 improved 3.275624228014425
+ -8-  Epoch [558/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [559/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [560/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [561/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [562/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [563/1020]
+Training samples: 13637 Train Loss: 0.00061
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [564/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [565/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [566/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [567/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [568/1020]
+Training samples: 13637 Train Loss: 0.00060
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [569/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [570/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [571/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [572/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [573/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [574/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [575/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [576/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [577/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [578/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [579/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [580/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [581/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [582/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00069
+ -8-  Epoch [583/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [584/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [585/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [586/1020]
+Training samples: 13637 Train Loss: 0.00059
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [587/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [588/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [589/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [590/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [591/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [592/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00062
+591 improved 3.2613625682959775
+ -8-  Epoch [593/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [594/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [595/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [596/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [597/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00060
+596 improved 3.2508785242195635
+ -8-  Epoch [598/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [599/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [600/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [601/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [602/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [603/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [604/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [605/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00062
+604 improved 3.227027152929161
+ -8-  Epoch [606/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [607/1020]
+Training samples: 13637 Train Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [608/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [609/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [610/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [611/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [612/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [613/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [614/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [615/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [616/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [617/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [618/1020]
+Training samples: 13637 Train Loss: 0.00057
+Test samples: 2041 Test Loss: 0.00059
+617 improved 3.2259043310857884
+ -8-  Epoch [619/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [620/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [621/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [622/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [623/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [624/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [625/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [626/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [627/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [628/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [629/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [630/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [631/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [632/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [633/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [634/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [635/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [636/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [637/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [638/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [639/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [640/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [641/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [642/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [643/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00060
+642 improved 3.2132087344927043
+ -8-  Epoch [644/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [645/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [646/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [647/1020]
+Training samples: 13637 Train Loss: 0.00056
+Test samples: 2041 Test Loss: 0.00067
+ -8-  Epoch [648/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [649/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [650/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [651/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [652/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [653/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [654/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [655/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [656/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [657/1020]
+Training samples: 13637 Train Loss: 0.00055
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [658/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [659/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [660/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [661/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00059
+660 improved 3.201198718058368
+ -8-  Epoch [662/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [663/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [664/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00058
+663 improved 3.1823692340467677
+ -8-  Epoch [665/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [666/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [667/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [668/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [669/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [670/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [671/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [672/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [673/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [674/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [675/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [676/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [677/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [678/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [679/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [680/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [681/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [682/1020]
+Training samples: 13637 Train Loss: 0.00054
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [683/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [684/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [685/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [686/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [687/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [688/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [689/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [690/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [691/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [692/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [693/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [694/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [695/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [696/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [697/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [698/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [699/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [700/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [701/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [702/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [703/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [704/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [705/1020]
+Training samples: 13637 Train Loss: 0.00053
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [706/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [707/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [708/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [709/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [710/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [711/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [712/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [713/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [714/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [715/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [716/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [717/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [718/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [719/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [720/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [721/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [722/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [723/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [724/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [725/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [726/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [727/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [728/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [729/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [730/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [731/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [732/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [733/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [734/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [735/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [736/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [737/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00068
+ -8-  Epoch [738/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [739/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [740/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00057
+739 improved 3.147422588671732
+ -8-  Epoch [741/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [742/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [743/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [744/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [745/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [746/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [747/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [748/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [749/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [750/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [751/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [752/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [753/1020]
+Training samples: 13637 Train Loss: 0.00052
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [754/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00056
+753 improved 3.1285950110742475
+ -8-  Epoch [755/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [756/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [757/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [758/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [759/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [760/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [761/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [762/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [763/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [764/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [765/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [766/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [767/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [768/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [769/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [770/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [771/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [772/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [773/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [774/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [775/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [776/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [777/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [778/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [779/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [780/1020]
+Training samples: 13637 Train Loss: 0.00051
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [781/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [782/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [783/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [784/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [785/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [786/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [787/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [788/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [789/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [790/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [791/1020]
+Training samples: 13637 Train Loss: 0.00050
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [792/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [793/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00055
+792 improved 3.1000804947848883
+ -8-  Epoch [794/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [795/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [796/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [797/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [798/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [799/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [800/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [801/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [802/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [803/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [804/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [805/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [806/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [807/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [808/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [809/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [810/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [811/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [812/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [813/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [814/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [815/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [816/1020]
+Training samples: 13637 Train Loss: 0.00049
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [817/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [818/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [819/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [820/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [821/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [822/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [823/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [824/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [825/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [826/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [827/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [828/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [829/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [830/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [831/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [832/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [833/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [834/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [835/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [836/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [837/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [838/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [839/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [840/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [841/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [842/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [843/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [844/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [845/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [846/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [847/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [848/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [849/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [850/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [851/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [852/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [853/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [854/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [855/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [856/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [857/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [858/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [859/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [860/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [861/1020]
+Training samples: 13637 Train Loss: 0.00048
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [862/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [863/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [864/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [865/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [866/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [867/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [868/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [869/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [870/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [871/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [872/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [873/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [874/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [875/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [876/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [877/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [878/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [879/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [880/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00066
+ -8-  Epoch [881/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [882/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [883/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [884/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [885/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [886/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [887/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [888/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [889/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [890/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [891/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [892/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [893/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [894/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [895/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [896/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [897/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [898/1020]
+Training samples: 13637 Train Loss: 0.00047
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [899/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [900/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [901/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [902/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [903/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [904/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [905/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [906/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [907/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [908/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [909/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [910/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [911/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [912/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [913/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [914/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [915/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [916/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [917/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [918/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [919/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [920/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [921/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [922/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [923/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [924/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [925/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [926/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [927/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [928/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [929/1020]
+Training samples: 13637 Train Loss: 0.00046
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [930/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [931/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [932/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [933/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [934/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [935/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [936/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [937/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [938/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [939/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [940/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [941/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [942/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [943/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [944/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [945/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [946/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [947/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [948/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [949/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00056
+ -8-  Epoch [950/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [951/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [952/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [953/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [954/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [955/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [956/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [957/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [958/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [959/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [960/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [961/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [962/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [963/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [964/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [965/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [966/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [967/1020]
+Training samples: 13637 Train Loss: 0.00045
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [968/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [969/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [970/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [971/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [972/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [973/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [974/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [975/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [976/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [977/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [978/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [979/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [980/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [981/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00055
+ -8-  Epoch [982/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [983/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [984/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [985/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [986/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [987/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [988/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [989/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [990/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [991/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [992/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [993/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [994/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [995/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [996/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [997/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [998/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00060
+ -8-  Epoch [999/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00055
+998 improved 3.0980097926287953
+ -8-  Epoch [1000/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [1001/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00063
+ -8-  Epoch [1002/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00064
+ -8-  Epoch [1003/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1004/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [1005/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1006/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1007/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1008/1020]
+Training samples: 13637 Train Loss: 0.00044
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1009/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00062
+ -8-  Epoch [1010/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1011/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [1012/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [1013/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [1014/1020]
+Training samples: 13637 Train Loss: 0.00042
+Test samples: 2041 Test Loss: 0.00057
+ -8-  Epoch [1015/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00058
+ -8-  Epoch [1016/1020]
+Training samples: 13637 Train Loss: 0.00042
+Test samples: 2041 Test Loss: 0.00065
+ -8-  Epoch [1017/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1018/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00061
+ -8-  Epoch [1019/1020]
+Training samples: 13637 Train Loss: 0.00043
+Test samples: 2041 Test Loss: 0.00059
+ -8-  Epoch [1020/1020]
+Training samples: 13637 Train Loss: 0.00042
+Test samples: 2041 Test Loss: 0.00058
+Test samples: 2041 Test Loss: 0.00056
+MAE: Yaw 3.00116, Pitch 3.72015, Roll 2.57272, Avg 3.09801
+cena_out_000000000000_pose_heatmaps.png
+tensor([[0.6616, 0.4306, 0.4297]], device='cuda:0', grad_fn=<AddmmBackward>)
+man_out_000000000000_pose_heatmaps.png
+tensor([[0.4275, 0.3055, 0.5438]], device='cuda:0', grad_fn=<AddmmBackward>)
+mes_out_000000000000_pose_heatmaps.png
+tensor([[0.3739, 0.3836, 0.5309]], device='cuda:0', grad_fn=<AddmmBackward>)
+vir_out_000000000000_pose_heatmaps.png
+tensor([[0.6699, 0.4934, 0.4831]], device='cuda:0', grad_fn=<AddmmBackward>)
+
