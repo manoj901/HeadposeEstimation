@@ -18,4 +18,4 @@ heatmaps_folder/
  - Research paper by - Aryaman Gupta, Kalpit Thakkar, Vineet Gandhi and P J Narayanan
    https://arxiv.org/pdf/1812.00739.pdf
 
- - Helped by Aryaman Gupta to code. 
+ 

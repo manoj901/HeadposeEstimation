@@ -36,39 +36,6 @@ def train(epochs, it):
         elapsed = time.time() - t
         print (' -%d-  Epoch [%d/%d]'%(elapsed, epoch+1, NB_EPOCHS))
         print ('Training samples: %d Train Loss: %.5f'%(len(train_loader.dataset), train_loss.item()))
-        test(prnt=False, it=it, epoch=epoch)
-
-def test(prnt=False, it=-1, epoch=-1):
-    model.eval()
-    test_loss = 0
-    correct = 0
-    yer = 0
-    per = 0
-    rer = 0
-    with torch.no_grad():
-        for data, target in test_loader:
-            data, target = data.to(device), target.to(device)
-            output = model(data)
-            loss = loss_func(output, target)     
-            test_loss += loss*3*output.shape[0]
-            for i in range(output.shape[0]):
-                    yer += abs(output[i][0]-target[i][0])
-                    per += abs(output[i][1]-target[i][1])
-                    rer += abs(output[i][2]-target[i][2])
-    test_loss /= (len(test_loader.dataset)*3)
-    print ('Test samples: %d Test Loss: %.5f'%(len(test_loader.dataset), test_loss.item()))
-
-    #Convert to Degrees
-    er1 = ((yer.item())/len(test_loader.dataset))*180
-    er2 = ((per.item())/len(test_loader.dataset))*180
-    er3 = ((rer.item())/len(test_loader.dataset))*180
-
-    #If new error is lesser, update the error variables
-    if er1+er2+er3 < fer[0] + fer[1] + fer[2]:
-        print(epoch, "improved", (er1+er2+er3)/3)
-        fer[0] = er1
-        fer[1] = er2
-        fer[2] = er3
     
 #Checking for Cuda
 use_cuda = torch.cuda.is_available()
@@ -80,31 +47,19 @@ print(device,use_cuda)
 kwargs = {'num_workers': 1, 'pin_memory': True} if use_cuda else {}
 BATCH_SIZE = 128
 NB_EPOCHS = 1020
-fer = 1000*np.ones((3))
 path_and_ground_truth_file = 'biwiGT'
 
 #Creating the training and testing sets
-als = []
+train_set = []
 for num in range(1, 25):
-    als.append(num)
-als = set(als) 
-selected_test_set = [12, 16, 17]    
-train_set = als-set(selected_test_set)
-train_set = list(train_set)
-print(train_set, selected_test_set)
-print("\n==============================\n")
+    train_set.append(num)
 
 #Training dataset
 train_dataset = biwiDataset(path_and_ground_truth_file, 1)
 train_dataset.select_sets(sets=train_set)
 
-#Testing dataset
-test_dataset = biwiDataset(path_and_ground_truth_file, 0)
-test_dataset.select_sets(sets=selected_test_set)
-
 #Preparing both the datasets to be fed into the CNN
 train_loader = DataLoader(dataset=train_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=2)
-test_loader = DataLoader(dataset=test_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=2)
 
 model = simpNet().to(device)
 if use_cuda:
@@ -117,12 +72,6 @@ loss_func = torch.nn.MSELoss()
 
 #Training
 train(NB_EPOCHS, it=1) 
-
-#Testing, comment the below line if you don't want to test the model
-test(prnt=False, it=1)  
-
-#Average Error Readings in degrees
-print('MAE: Yaw %.5f, Pitch %.5f, Roll %.5f, Avg %.5f'%(fer[0], fer[1], fer[2], (fer[0]+fer[1]+fer[2])/3))
 
 #Add your heatmap's address to the own_set list to find out it's yaw, pitch and roll
 #Sample heatmap addresses have been added to the list to give an idea. You can change this list as you wish
