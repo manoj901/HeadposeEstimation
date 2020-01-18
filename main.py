@@ -49,7 +49,7 @@ BATCH_SIZE = 128
 NB_EPOCHS = 1020
 path_and_ground_truth_file = 'biwiGT'
 
-#Creating the training and testing sets
+#Creating the training set
 train_set = []
 for num in range(1, 25):
     train_set.append(num)
@@ -58,7 +58,7 @@ for num in range(1, 25):
 train_dataset = biwiDataset(path_and_ground_truth_file, 1)
 train_dataset.select_sets(sets=train_set)
 
-#Preparing both the datasets to be fed into the CNN
+#Preparing the dataset to be fed into the CNN
 train_loader = DataLoader(dataset=train_dataset, batch_size=BATCH_SIZE, shuffle=True, num_workers=2)
 
 model = simpNet().to(device)
@@ -66,7 +66,7 @@ if use_cuda:
     model.cuda()
     model = torch.nn.DataParallel(model, device_ids=range(torch.cuda.device_count()))
 
-#Using Adam's optimiser and setting the learning rate ti 10e-5
+#Using Adam's optimiser and setting the learning rate to 10e-5
 optimizer = optim.Adam(model.parameters(), lr = 0.000001)
 loss_func = torch.nn.MSELoss()
 
