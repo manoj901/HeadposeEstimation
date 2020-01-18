@@ -17,8 +17,8 @@ heatmaps_folder/
 
 
 ## Paper 
- - Gupta Aryaman, Thakkar Kalpit, Gandhi Vineet and Narayanan P J
-[Nose, Eyes and Ears: Head Pose Estimation By Locating Facial Keypoints](https://arxiv.org/pdf/1812.00739.pdf)
+ - Gupta Aryaman, Thakkar Kalpit, Gandhi Vineet and Narayanan P J <br />
+[Nose, Eyes and Ears: Head Pose Estimation By Locating Facial Keypoints](https://arxiv.org/pdf/1812.00739.pdf) <br />
 ICASSP 2019
 
 
