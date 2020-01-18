@@ -12,6 +12,8 @@ heatmaps_folder/
 
  
  - Add the location of the newly generated heatmap to the 'own_set' list in main.py and execute the code.
+ 
+ - The angles are normalized, so the resultant tensor with the yaw,pitch and roll should be multiplied by 180 and then 90 be subtracted from every element to get theese angles in degrees.
 
 
 ## Credits -
