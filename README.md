@@ -1,6 +1,6 @@
 ## Usage
 
- - Install OpenPose. Installation instructions :
+ - Install OpenPose. Installation instructions : <br />
    https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md
  
  - Use face_detect.py to create a 96x96 sized cropped image of the face in the image.  Change the working directory to the OpenPose directory downloaded in the first instruction and execute the following command to get a keypoint-heatmap of the face. The output will be stored in the all_heatmaps folder of the same OpenPose directory.
