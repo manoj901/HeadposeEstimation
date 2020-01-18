@@ -16,7 +16,7 @@ heatmaps_folder/
  - The angles are normalized, so the resultant tensor with the yaw,pitch and roll should be multiplied by 180 and then 90 be subtracted from every element to get theese angles in degrees.
 
 
-## Credits -
+## Paper 
  - Research paper by - Aryaman Gupta, Kalpit Thakkar, Vineet Gandhi and P J Narayanan
    https://arxiv.org/pdf/1812.00739.pdf
 
